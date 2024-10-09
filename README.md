@@ -76,9 +76,9 @@ set the PASS_FILE parameter to the wordlist path available inside /usr/share/wor
 
 set PASS_FILE /usr/share/wordlists/rockyou.txt Then, specify the IP address of the target machine with the RHOSTS command. set RHOSTS
 
-Set BLANK_PASSWORDS to true in case there is no password set for the root account.
+> Set BLANK_PASSWORDS to true in case there is no password set for the root account.
 
-set BLANK_PASSWORDS true
+> set BLANK_PASSWORDS true
 ![14](https://github.com/user-attachments/assets/ed39c52f-ee96-4bc8-aa88-adce63df05f4)
 
 
