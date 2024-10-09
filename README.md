@@ -28,9 +28,9 @@ Find out the ip address of the attackers system
 
 Before beginning, set up the Metasploit database by starting the PostgreSQL server and initialize msfconsole database as follows:
 
-systemctl start postgresql
+> systemctl start postgresql
 
-msfdb init
+> msfdb init
 
 Invoke msfconsole:
 ## OUTPUT:
